@@ -1,0 +1,70 @@
+body {
+	font-family: "Roboto Mono", monospace;
+	min-height: 400px;
+	background-color: #010d34;
+	background-size: 80vh;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+}
+
+.container {
+	margin: 20%;
+	margin-top: 5%;
+	text-align: center;
+	padding: 40px;
+	padding-bottom: 80px;
+	max-width: 50%;
+}
+.header, .main, .footer {
+	margin: 10px;
+	padding: 10px;
+	box-shadow: 2px 2px 2px 1px #112461;
+	border-radius: 30px;
+	background-color: #022aac;
+}
+
+input {
+	text-align: center;
+}
+#nota1 {
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+#nota4 {
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+#mediaEscola {
+	border-radius: 10px;
+}
+
+.p {
+	text-align: center;
+	color: #ffffff;
+}
+
+.page-title {
+	color: #ffffff;
+	margin: 0 0 5px;
+}
+
+.page-subtitle {
+	color: #ffffff;
+	margin-top: 5px;
+}
+
+.page-logo {
+	width: 200px;
+}
+
+.alura-logo {
+	width: 40px;
+	position: center;
+	top: 10px;
+	right: 10px;
+}
+
+.resul {
+	color: white;
+	font-size: 20px;
+}
